@@ -40,6 +40,11 @@ WardrobeOS is a stylish and user-friendly web platform designed for apparel and 
 - `src/Order_summary/` - Order summary styles
 - `src/EnterOTP/` - OTP entry styles
 
+## Sample photos
+
+![WardrobeOS Screenshot2](WardrobeOS/src/assets/wardrobeOS_2.png)
+![WardrobeOS Screenshot1](WardrobeOS/src/assets/wardrobeOS_1.png)
+
 ## License
 
 This project is currently not licensed.
